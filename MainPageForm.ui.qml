@@ -64,10 +64,7 @@ Item {
 
         ListView {
             id: listView
-<<<<<<< HEAD
             Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-=======
->>>>>>> old
             anchors {left: parent.left; right: parent.right}
             Layout.fillHeight: true
             boundsBehavior: Flickable.StopAtBounds

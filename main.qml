@@ -34,11 +34,8 @@ ApplicationWindow {
 
     Dialog {
         id: aboutDialogId
-<<<<<<< HEAD
         width: 600
         height: 300
-=======
->>>>>>> old
         contentItem: AboutDialog {
             id: aboutContentItemId
             anchors.fill: parent
